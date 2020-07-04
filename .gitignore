@@ -1,1 +1,6 @@
+# git rm --cached node_module -r -- stage에 이미 올라간 node_modules 삭제
+# git status로 확인 시 없어진것 확인
 node_modules
+
+#mongoURI 계정 정보 제외
+dev.js
